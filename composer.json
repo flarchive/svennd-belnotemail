@@ -1,0 +1,39 @@
+{
+  "name": "svennd/belnotemail",
+  "description": "Prevent users from signing up with non-belnot email",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.14"
+  },
+  "authors": [
+    {
+      "name": "YuetAu",
+      "email": "s161022114@sunfc.edu.hk",
+      "role": "Developer"
+    },
+    {
+      "name": "SvennD",
+      "role": "Modifications"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SvennD\\BelNotEmail\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "BelNotEmail",
+      "category": "moderation",
+      "icon": {
+        "name": "fas fa-envelope",
+        "backgroundColor": "#3F51B5",
+        "color": "#fff"
+      }
+    }
+  }
+}

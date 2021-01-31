@@ -1,0 +1,3 @@
+BelNotEmail:
+  error:
+    non_school_email_message:You must use a belnot.be email address to register.
