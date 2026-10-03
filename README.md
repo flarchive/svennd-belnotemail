@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of svennd/belnotemail.** Not for installation: use [Packagist](https://packagist.org/packages/svennd/belnotemail) or the [upstream repository](https://github.com/svennd/belnotemail).
 
-**0** versions archived · Latest: [`v1.0`](https://github.com/flarchive/svennd-belnotemail/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**1** versions archived · Latest: [`v1.0`](https://github.com/flarchive/svennd-belnotemail/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2021-01-31 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/svennd-belnotemail/tree/archive/v1.0) |
 
 Catalog entry: [packages/svennd-belnotemail.json](https://github.com/flarchive/archive-index/blob/main/packages/svennd-belnotemail.json)
 
